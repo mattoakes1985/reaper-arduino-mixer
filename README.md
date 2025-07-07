@@ -53,3 +53,27 @@ This project turns an Arduino Nano, OLED screen, and two rotary encoders into a 
 ---
 
 ## 📂 Repo Structure
+reaper-arduino-mixer/
+│
+├── arduino/
+│ └── reaper_mixer.ino
+│
+├── python/
+│ └── reaper_controller.py
+│
+├── wiring/
+│ └── diagram.png
+│
+├── README.md
+└── LICENSE
+
+
+---
+
+## 📜 License
+MIT License. Free to use, modify, and share.
+
+---
+
+## 💡 Credits
+Inspired by the need for simple, tactile control in live in-ear monitoring with REAPER.
